@@ -38,7 +38,7 @@ Izlaz svake komponente je ujedno i ulaz za sledeću komponentu.
 
 #### Lexer i parser
 
-Lexer i parser će biti implementirani ručno, ili korišćenjem Rust crate-a [Rustemo](https://github.com/igordejanovic/rustemo) za generisanje istih.
+Lexer će biti implementiran ručno, a parser će biti generisan korišćenjem Rust crate-a [Rustemo](https://github.com/igordejanovic/rustemo).
 
 #### Sistem tipova
 
