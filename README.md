@@ -38,11 +38,7 @@ Izlaz svake komponente je ujedno i ulaz za sledeću komponentu.
 
 #### Lexer i parser
 
-Lexer i parser će biti implementirani ručno, ili korišćenjem Rust crate-ova za generisanje istih. Primeri takvih crate-ova su:
-
-- [LALRPOP](https://github.com/lalrpop/lalrpop) - LR/LALR parser generator
-- [nom](https://github.com/rust-bakery/nom) - parser kombinator
-- [Rustemo](https://github.com/igordejanovic/rustemo) - LR/GLR parser generator
+Lexer i parser će biti implementirani ručno, ili korišćenjem Rust crate-a [Rustemo](https://github.com/igordejanovic/rustemo) za generisanje istih.
 
 #### Sistem tipova
 
